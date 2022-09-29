@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header&text=KIM%20DONGMIN&fontSize=60&fontAlignY=30)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=KIM%20DONGMIN&fontSize=60&fontAlignY=40)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddmkim94&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
