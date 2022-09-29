@@ -1,6 +1,6 @@
 <div align="center">
 
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=KIM%20DONGMIN&fontSize=60&fontAlignY=40)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=KIM%20DONGMIN&fontSize=60&fontAlignY=40&desc=🌱%20매일%20조금씩%20성장하기%20🌱&descSize=15)
   
 </div>
 <h1 align="center">Tech Stack</h1>
