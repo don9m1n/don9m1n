@@ -42,7 +42,10 @@
 
 <h1 align="center">About Me</h1>
 <div align="center">
-
+  <div align="center">
+   <a href="https://github.com/ddmkim94"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"></a>
+  </div>
+  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddmkim94&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
