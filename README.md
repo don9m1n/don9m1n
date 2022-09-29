@@ -7,7 +7,7 @@
   <div align="center">
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src ="https://img.shields.io/badge/Spring Boot-6DB33F.svg?&style=for-the-badge&logo=Spring Boot&logoColor=white"/>
-  <img src ="https://img.shields.io/badge/Hibernate-59666C.svg?&style=for-the-badge&logo=Hibernate&logoColor=white"/>
+  <img src ="https://img.shields.io/badge/Hibernate-001064.svg?&style=for-the-badge&logo=Hibernate&logoColor=white"/>
  
   <br>
 
@@ -62,12 +62,5 @@
   </div>
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddmkim94&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
-
-<div align="center">
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer)
 
 </div>
