@@ -7,15 +7,12 @@
   <div align="center">
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src ="https://img.shields.io/badge/Spring Boot-6DB33F.svg?&style=for-the-badge&logo=Spring Boot&logoColor=white"/>
-  <img src ="https://img.shields.io/badge/Hibernate-001064.svg?&style=for-the-badge&logo=Hibernate&logoColor=white"/>
  
   <br>
 
   <img src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
   <img src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
 
   <br>
 
@@ -34,14 +31,6 @@
 
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/fontawesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
-  
-  <br>
-  <img src ="https://img.shields.io/badge/IntelliJ IDEA-ba2d65.svg?&style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"/>
-  <img src ="https://img.shields.io/badge/VirtualBox-183A61.svg?&style=for-the-badge&logo=VirtualBox&logoColor=white"/>
-  <img src ="https://img.shields.io/badge/Visual Studio Code-007ACC.svg?&style=for-the-badge&logo=Visual Studio Code&logoColor=white"/>
-  <img src ="https://img.shields.io/badge/Postman-FF6C37.svg?&style=for-the-badge&logo=Postman&logoColor=white"/>
-  <img src ="https://img.shields.io/badge/iTerm2-1b5e20.svg?&style=for-the-badge&logo=iTerm2&logoColor=white"/> 
 
 
   
