@@ -29,9 +29,10 @@
   <div align="center">
    <a href="https://github.com/ddmkim94"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"></a>
    <a href="https://velog.io/@ddmkim94"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"></a>
-</a>
-  </div>
+</div>
 
+<div align="center">
+  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ddmkim94&theme=zenburn)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ddmkim94&theme=zenburn)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ddmkim94&theme=zenburn)
