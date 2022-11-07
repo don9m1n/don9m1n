@@ -3,7 +3,7 @@
   ![header](https://capsule-render.vercel.app/api?type=Waving&color=0:020024,50:056e95,100:005769&height=300&section=header&text=KIM%20DONGMIN&fontSize=60&fontAlignY=40&desc=🌱%20매일%20조금씩%20성장하기%20🌱&descSize=15&animation=twinkling&fontColor=ffffff)
   
 </div>
-<h1 align="center">Tech Stack</h1>
+<h1 align="center">✨ Tech Stack</h1>
   <div align="center">
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src ="https://img.shields.io/badge/Spring Boot-6DB33F.svg?&style=for-the-badge&logo=Spring Boot&logoColor=white"/>
@@ -21,25 +21,19 @@
 
   <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-
-
   
 </div>
-
-<div align="center">
-
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddmkim94&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
-</div>
-
-<h1 align="center">About Me</h1>
+<h1 align="center">🌱 About Me</h1>
 <div align="center">
   <div align="center">
    <a href="https://github.com/ddmkim94"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"></a>
    <a href="https://velog.io/@ddmkim94"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"></a>
-   <a href="mailto:ddmkim94@gmail.com"><img src="https://img.shields.io/badge/ddmkim94@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>
+</a>
   </div>
-  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddmkim94&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ddmkim94&theme=zenburn)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ddmkim94&theme=zenburn)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ddmkim94&theme=zenburn)
 
 </div>
