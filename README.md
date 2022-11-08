@@ -45,10 +45,10 @@
 <div align="center">
   
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ddmkim94&exclude_repo=ddmkim94.github.io&layout=compact&theme=tokyonight">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddmkim94&exclude_repo=ddmkim94.github.io&layout=compact&theme=tokyonight" width="40%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddmkim94&exclude_repo=ddmkim94.github.io&layout=compact&theme=tokyonight" width="50%"/>
 </a>
 <a href="https://github-readme-stats.vercel.app/api?username=ddmkim94&theme=tokyonight&show_icons=true">
-  <img src="https://github-readme-stats.vercel.app/api?username=ddmkim94&theme=tokyonight&show_icons=true" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ddmkim94&theme=tokyonight&show_icons=true" width="50%" />
 </a>
  
 
