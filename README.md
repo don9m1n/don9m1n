@@ -4,8 +4,6 @@
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ddmkim94/hit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ddmkim94)](https://solved.ac/ddmkim94)
 </div>
 <h1 align="center">✨ Tech Stack</h1>
   <div align="center">
@@ -37,6 +35,8 @@
 </div>
 
 <br> 
+    
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ddmkim94)](https://solved.ac/ddmkim94)
 
 <div align="center">
   
