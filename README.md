@@ -2,6 +2,8 @@
 
   ![header](https://capsule-render.vercel.app/api?type=Waving&color=0:020024,50:056e95,100:005769&height=300&section=header&text=KIM%20DONGMIN&fontSize=60&fontAlignY=40&desc=🌱%20매일%20조금씩%20성장하기%20🌱&descSize=15&animation=twinkling&fontColor=ffffff)
   
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ddmkim94/hit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  
 </div>
 <h1 align="center">✨ Tech Stack</h1>
   <div align="center">
