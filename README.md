@@ -35,16 +35,20 @@
 </div>
 
 <br> 
-    
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ddmkim94)](https://solved.ac/ddmkim94)
 
 <div align="center">
   
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ddmkim94)](https://solved.ac/ddmkim94)
+  
+</div>
+    
+<div align="center">
+  
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ddmkim94&exclude_repo=ddmkim94.github.io&layout=compact&theme=tokyonight">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddmkim94&exclude_repo=ddmkim94.github.io&layout=compact&theme=tokyonight" width="40%" height="200px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddmkim94&exclude_repo=ddmkim94.github.io&layout=compact&theme=tokyonight" width="40%"/>
 </a>
 <a href="https://github-readme-stats.vercel.app/api?username=ddmkim94&theme=tokyonight&show_icons=true">
-  <img src="https://github-readme-stats.vercel.app/api?username=ddmkim94&theme=tokyonight&show_icons=true" width="40%" height="200px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ddmkim94&theme=tokyonight&show_icons=true" width="40%" />
 </a>
  
 
