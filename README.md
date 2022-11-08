@@ -5,7 +5,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ddmkim94/hit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   
 </div>
-<h1 align="center">✨ Tech Stack</h1>
+<h3 align="center">✨ Tech Stack</h3>
   <div align="center">
   <img src="https://img.shields.io/badge/java-ed8b00?style=for-the-badge&logo=java&logoColor=white"> 
   <img src ="https://img.shields.io/badge/Spring Boot-6DB33F.svg?&style=for-the-badge&logo=Spring Boot&logoColor=white"/>
@@ -26,7 +26,7 @@
   
 </div>
   
-<h1 align="center">🌱 About Me</h1>
+<h3 align="center">🌱 About Me</h3>
 <div align="center">
   <div align="center">
    <a href="https://github.com/ddmkim94"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"></a>
