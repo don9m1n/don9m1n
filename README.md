@@ -33,10 +33,16 @@
    <a href="https://velog.io/@ddmkim94"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"></a>
 </div>
 
+<br> 
+
 <div align="center">
   
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ddmkim94&theme=zenburn)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ddmkim94&theme=zenburn)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ddmkim94&theme=zenburn)
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddmkim94&exclude_repo=ddmkim94.github.io&layout=compact&theme=tokyonight" width="40%" height="200px;"/>
+</a>
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api?username=ddmkim94&theme=tokyonight&show_icons=true" width="40%" height="200px;"/>
+</a>
+ 
 
 </div>
