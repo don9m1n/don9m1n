@@ -41,13 +41,4 @@
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ddmkim94)](https://solved.ac/ddmkim94)
   
 </div>
-    
-<div align="center">
-  
-  <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddmkim94&exclude_repo=ddmkim94.github.io&layout=compact&theme=tokyonight&custom_title=DONGMIN's%20Most%20Used%20Language&hide_border=true"/>
-    
-</a>
-</div>
- 
 </div>
