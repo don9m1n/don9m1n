@@ -1,6 +1,6 @@
 
-### Hello, I'm _`Dongmin Kim.`_
-### I'm a _`Backend Developer.`_
+#### Hello, I'm _`Dongmin Kim.`_ 👋🏻
+#### I'm a _`Backend Developer.`_
 
 <div>
 <img src="https://img.shields.io/badge/java-D9111E?style=for-the-badge&logo=java&logoColor=white"> 
