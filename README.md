@@ -1,5 +1,5 @@
 
-### 👋🏻 Hello, I'm _`Dongmin Kim.`_
+### Hello, I'm _`Dongmin Kim.`_
 ### I'm a _`Backend Developer.`_
 
 <div>
