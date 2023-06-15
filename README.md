@@ -1,5 +1,5 @@
 
-**👋🏻 Hello, I'm `Dongmin Kim.`** <br><br>
+**👋🏻 Hello, I'm `Dongmin Kim.`** <br>
 I'm a __`Backend Developer.`__ 
 
 <div>
