@@ -10,10 +10,9 @@
 <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
 <img src="https://img.shields.io/badge/git-E13626?style=for-the-badge&logo=git&logoColor=white">
 </div>
-  
-<div>
-  
+ 
+<br>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddmkim94&show_icons=true&theme=merko)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ddmkim94)](https://solved.ac/ddmkim94)
-  
-</div>
+ 
