@@ -1,6 +1,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fddmkim94&count_bg=%232E47DE&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=github&edge_flat=false)](https://hits.seeyoufarm.com)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mitr&weight=500&duration=4000&pause=1000&color=F7ECEC&background=637CFF&multiline=true&width=435&height=60&lines=Hello%2C+I'm+Dongmin+Kim.;I'm+a+Backend+Developer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mitr&weight=500&duration=4000&pause=1000&color=F7ECEC&background=637CFF&center=true&multiline=true&width=300&height=60&lines=Hello%2C+I'm+Dongmin+Kim.;I'm+a+Backend+Developer.)](https://git.io/typing-svg)
 
 <div>
 <img src="https://img.shields.io/badge/java-D9111E?style=for-the-badge&logo=java&logoColor=white"> 
