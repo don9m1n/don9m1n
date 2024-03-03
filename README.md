@@ -6,7 +6,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Mitr&weight=500&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&repeat=false&random=false&width=300&height=40&lines=Hi!+I'm+a+Backend+Developer.)](https://git.io/typing-svg)
 -->
 
-Junior web back-end developer.
+Hello, Junior web back-end developer.
 
 <div>
 <img src="https://img.shields.io/badge/java-D9111E?style=for-the-badge&logo=java&logoColor=white"> 
