@@ -10,11 +10,13 @@ Hello, Junior web back-end developer.
 
 <div>
 <img src="https://img.shields.io/badge/java-D9111E?style=flat-square&logo=java&logoColor=white"> 
-<img src ="https://img.shields.io/badge/Spring-5BAA22.svg?&style=flat-square&logo=Spring&logoColor=white"/>
+<!-- <img src ="https://img.shields.io/badge/Spring-5BAA22.svg?&style=flat-square&logo=Spring&logoColor=white"/> -->
 <img src ="https://img.shields.io/badge/Spring Boot-5BAA22.svg?&style=flat-square&logo=Spring Boot&logoColor=white"/>
-<img src="https://img.shields.io/badge/mysql-D57503?style=flat-square&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/mariadb-003545?style=flat-square&logo=mariadb&logoColor=white">
+<img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">
-<img src="https://img.shields.io/badge/aws-232F3E?style=flat-square&logo=amazonaws&logoColor=white"> 
+<img src="https://img.shields.io/badge/aws-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"> 
 <img src="https://img.shields.io/badge/git-E13626?style=flat-square&logo=git&logoColor=white">
 </div>
 
@@ -27,4 +29,4 @@ Hello, Junior web back-end developer.
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=don9m1n&show_icons=true&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff) -->
 
 <!-- [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ddmkim94)](https://solved.ac/ddmkim94) -->
- 
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ddmkim94)](https://solved.ac/ddmkim94)
