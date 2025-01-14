@@ -9,15 +9,15 @@
 Hello, Junior web back-end developer.
 
 <div>
-<img src="https://img.shields.io/badge/java-D9111E?style=flat-square&logo=java&logoColor=white"> 
-<!-- <img src ="https://img.shields.io/badge/Spring-5BAA22.svg?&style=flat-square&logo=Spring&logoColor=white"/> -->
+<img src="https://img.shields.io/badge/Java-CC0000?style=flat-square&logo=openjdk&logoColor=white"> 
 <img src ="https://img.shields.io/badge/Spring Boot-5BAA22.svg?&style=flat-square&logo=Spring Boot&logoColor=white"/>
-<img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/mariadb-003545?style=flat-square&logo=mariadb&logoColor=white">
-<img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">
-<img src="https://img.shields.io/badge/aws-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"> 
-<img src="https://img.shields.io/badge/git-E13626?style=flat-square&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/Centos-262577?style=flat-square&logo=centos&logoColor=white">
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white">
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"> 
+<img src="https://img.shields.io/badge/Git-E13626?style=flat-square&logo=git&logoColor=white">
 </div>
 
 <!--
