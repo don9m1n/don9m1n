@@ -28,7 +28,7 @@ Hello, Junior web back-end developer.
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=don9m1n&show_icons=true&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff) -->
 
-<div>
+<div style="display: flex;">
   
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dmk94)](https://solved.ac/dmk94)
 ![LeetCode-Stats-Card](https://leetcard.jacoblin.cool/dmk94?theme=nord&border=0&radius=20)
