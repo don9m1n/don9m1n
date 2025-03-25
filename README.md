@@ -1,7 +1,3 @@
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdon9m1n%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=tinder.svg&icon_color=%23E60606&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-
 <!--
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Mitr&weight=500&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&repeat=false&random=false&width=300&height=40&lines=Hi!+I'm+a+Backend+Developer.)](https://git.io/typing-svg)
 -->
@@ -29,4 +25,5 @@ Hello, Junior web back-end developer.
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=don9m1n&show_icons=true&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff) -->
   
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dmk94)](https://solved.ac/dmk94)
-![LeetCode-Stats-Card](https://leetcard.jacoblin.cool/dmk94?theme=nord&border=0&radius=20)
+
+<!-- ![LeetCode-Stats-Card](https://leetcard.jacoblin.cool/dmk94?theme=nord&border=0&radius=20) -->
